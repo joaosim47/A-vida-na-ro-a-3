@@ -7,9 +7,11 @@
     background-image: linear-gradient(90deg,yellow,green);
     height: 100vh;
     width: 100vw;
+    border: 9px solid aqua;
+    border-radius: 15px;
 }
 .img2{
-    background-color: black;
+    background-color: lime;
     text-align: center;
     position: absolute;
     top: 50%;
@@ -18,10 +20,14 @@
     padding: 80px;
     border-radius: 15px;
     color: white;
-    border: 9px solid red;
-    
+    border: 9px solid aqua;   
+}
+.id{
+    border-radius: 15px;
+    border: 9px solid, aqua;
 }
 input{
+    border-radius: 15px;
     padding: 15px;
     border: none;
     outline: none;

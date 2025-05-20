@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 60px;
+    color: red;
+    text-align: center;
+}
+#img3{
+       background-image: linear-gradient(90deg, yellow, green);
+   border: 9px solid #04edf0;
+}
+h2{
+font-size: 40px;
+    color:white;
+    text-align: center;    
+}
+h3{
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
+img{
+    height: 50vh;
+    width: 50vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}

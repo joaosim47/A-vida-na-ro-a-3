@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    align-items: center;
+}
+body{ h1{
+    font-size: 70px;
+    color: red;
+    text-align: center;
+}}
+p{
+color: white;
+font-size: 50px;
+text-align: center;
+}
+#img{
+      border: 9px solid #04edf0;
+         background-image: linear-gradient(90deg, yellow, green);
+}
+h2{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width: 40vw;
+    height: 40vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
